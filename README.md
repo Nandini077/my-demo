@@ -1,4 +1,4 @@
 # my-demo
 This is my repository.
 <br>
-Author - Nandini Goel
+Author - Nandini (Btech student)
